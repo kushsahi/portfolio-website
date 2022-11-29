@@ -1,0 +1,124 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Sahil Portfolio Website</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="#" class="image avatar"><img src="images/spk.jpeg" alt=""  height="300" /></a>
+					<h1>I am <strong> Sahil Kushwaha</strong>, an aspiring<br/> Data Analyst 
+					who is ready to face <br /> real world challenges in the field of Data<br />
+					<!--crafted by <a href="http://html5up.net">HTML5 UP</a>.--> </h1>
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- One -->
+					<section id="one">
+						<header class="major">
+							<h2 style="color:Tomato; text-align:center ;">Please find below, few of my projects </h2>
+						</header>
+						<p style="color:black;">Through out my journey of gaining the reqired skills to become an Data Analyst, I was able to come up with few mini projects. These projects helped me in getting the required hands on Experience.</p>
+						<ul class="actions">
+							<li><a href="#two" class="button large scrolly">My Projects</a></li>
+						</ul>
+					</section>
+
+				<!-- Two -->
+					<section id="two">
+						<h2>Recent Work</h2>
+						<div class="row">
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="https://github.com/kushsahi/Portfolio-Projects/blob/main/Dashboard.xlsx" ><img src="images/p1.jpg" alt="" width="350" height="200"/></a>
+								<h3 style="color:red;"><a href="https://github.com/kushsahi/Portfolio-Projects/blob/main/Dashboard.xlsx">Salesman Product Analysis</a></h3>
+								<p style="color:black;">The dashboard consists of products classified on the various parameters.</p>
+							</article>
+							
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="https://github.com/kushsahi/Portfolio-Projects/blob/main/Bike%20Sales%20Dashboard.xlsx" ><img src="images/p2.jpg" alt="" width="350" height="200"/></a>
+								<h3 style="color:red;"><a href="https://github.com/kushsahi/Portfolio-Projects/blob/main/Bike%20Sales%20Dashboard.xlsx">Bike Sales Dashboard</a></h3>
+								<p style="color:black;"Raw data on various bike modles was gathered, cleaned and analysed to generate dashboard.</p>
+							</article>
+							
+							<article class="col-6 col-12-xsmall work-item">
+								<a href="https://public.tableau.com/app/profile/sahil.prasad.kushwaha" ><img src="images/tableau.jpg" alt="" width="350" height="200"/></a>
+								<h3 style="color:red;"><a href="https://public.tableau.com/app/profile/sahil.prasad.kushwaha">My Tableau Dashboards</a></h3>
+								<p style="color:black;">Please find all my dashboards made using tableau. </p>
+							</article>
+						</div>
+						<ul class="actions">
+							<li><a href="#one" class="button large scrolly">Go to TOP</a></li>
+						</ul>
+					</section>
+
+				<!-- Three -->
+					<section id="three">
+						<h2>Get In Touch</h2>
+						<p style="color:black;">Please find my mailing address below</p>
+						<div class="row">
+							
+							<div class="col-4 col-12-small">
+								<ul class="labeled-icons">
+									<li>
+										<h3 class="icon solid fa-home"><span class="label">Address</span></h3>
+										Bangalore<br />
+										Karnataka<br />
+										India
+									</li>
+									<!--<li>
+										<h3 class="icon solid fa-mobile-alt"><span class="label">Phone</span></h3>
+										000-000-0000
+									</li>-->
+									<li>
+										<h3 class="icon solid fa-envelope"><span class="label">Email</span></h3>
+										
+										<a href = "mailto: kushwahas667@gmail.com">kushwahas667@gmail.com</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</section>
+
+
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<ul class="icons">
+					    <li><a href="https://www.leetcode.com/kushwahas667" class="cib-leetcode""><span class="label">Leetcode</span></li>
+						<li><a href="https://www.linkedin.com/in/sahil-prasad-kushwaha-018a41161/" class="icon brands fa-linkedin-in"><span class="label">Linkedin</span></a></li>
+						<li><a href="https://github.com/kushsahi" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="https://www.hackerrank.com/kushwahas667" class="icon brands fa-hackerrank"><span class="label">Hackerrank</span></a></li>
+						
+					</ul>
+					<ul class="copyright">
+						<li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
